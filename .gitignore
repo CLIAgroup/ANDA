@@ -1,0 +1,9 @@
+ckpt/
+datasets/
+data/
+__pycache__/
+outputs/
+*.zip
+*.npz
+.DS_Store
+rsync.sh
