@@ -1,6 +1,6 @@
 # Strong Transferable Adversarial Attacks via Ensembled Asymptotically Normal Distribution Learning (Accepted by CVPR2024)
 
-This is the official PyTorch code for ANDA and MultiANDA in our paper [Strong Transferable Adversarial Attacks via Ensembled Asymptotically Normal Distribution Learning](https://arxiv.org/pdf/2209.11964.pdf).
+This is the official PyTorch code for ANDA and MultiANDA in our paper [Strong Transferable Adversarial Attacks via Ensembled Asymptotically Normal Distribution Learning](https://openaccess.thecvf.com/content/CVPR2024/papers/Fang_Strong_Transferable_Adversarial_Attacks_via_Ensembled_Asymptotically_Normal_Distribution_Learning_CVPR_2024_paper.pdf).
 
 # Abstract
 [![arXiv](https://img.shields.io/badge/arXiv-2209.11964-b31b1b.svg)](https://arxiv.org/abs/2209.11964)  
@@ -42,11 +42,13 @@ We are very grateful for the contribution of following efforts to the community:
 # Citation
 If you find this work is useful, please consider citing:
 ```
-@article{fang2022approximate,
-  title={Approximate better, Attack stronger: Adversarial Example Generation via Asymptotically Gaussian Mixture Distribution},
-  author={Fang, Zhengwei and Wang, Rui and Huang, Tao and Jing, Liping},
-  journal={arXiv preprint arXiv:2209.11964},
-  year={2022}
+@InProceedings{Fang_2024_CVPR,
+    author    = {Fang, Zhengwei and Wang, Rui and Huang, Tao and Jing, Liping},
+    title     = {Strong Transferable Adversarial Attacks via Ensembled Asymptotically Normal Distribution Learning},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2024},
+    pages     = {24841-24850}
 }
 ```
 
